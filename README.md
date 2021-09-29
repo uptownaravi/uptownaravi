@@ -7,4 +7,4 @@ Cloud Engineer | working on AWS EKS deployment pipelines | experimenting with gi
 
 :computer: blogs @ https://dev.to/harisharavindan and https://uptownlabs.in/
 
-:incoming_envelope: uptownaravi@outlook.com
+:incoming_envelope: uptownlabs@outlook.com
