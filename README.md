@@ -5,6 +5,6 @@ Cloud Engineer | working on AWS EKS deployment pipelines | experimenting with gi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/harish-aravindan)
 
-:computer: blogs @ https://uptownlabs.in/
+:computer: blogs @ https://dev.to/harisharavindan and https://uptownlabs.in/
 
 :incoming_envelope: uptownaravi@outlook.com
