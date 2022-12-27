@@ -1,5 +1,3 @@
-![digital](harisharavindan.png)
-
 # Hi there 👋 its Harish Aravindan (uptownaravi)
 Cloud Engineer | working on AWS EKS deployment pipelines | experimenting with github action | easing out automations with chatops
 
@@ -17,4 +15,4 @@ Cloud Engineer | working on AWS EKS deployment pipelines | experimenting with gi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/harish-aravindan)
 
-:rocket: [harisharavindan.io](https://harisharavindan.io/)
+:rocket: [harisharavindan.com](https://harisharavindan.com/)
