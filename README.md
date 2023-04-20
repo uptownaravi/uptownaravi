@@ -3,7 +3,8 @@ Cloud Engineer | working on AWS EKS deployment pipelines | experimenting with gi
 
 ---
 
-### Trying my writing skills with blogs @ :computer: https://dev.to/harisharavindan | https://uptownaravi.hashnode.dev/ | https://medium.com/@harisharavindan
+### Trying my writing skills with blogs @
+:computer: https://dev.to/harisharavindan | https://uptownaravi.hashnode.dev/ | https://medium.com/@harisharavindan
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
