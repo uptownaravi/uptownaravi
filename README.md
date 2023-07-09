@@ -8,11 +8,11 @@ Cloud Engineer | working on AWS EKS deployment pipelines | experimenting with gi
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pull Request Validation for AWS CodeCommit using Lambda and CodeBuild](https://dev.to/harisharavindan/pull-request-validation-for-aws-codecommit-using-lambda-and-codebuild-4dcg)
 - [GitHub Action for Commit Message Validation](https://dev.to/harisharavindan/github-action-for-commit-message-validation-5b36)
 - [Clean up unused aws ebs volumes with lambda function](https://dev.to/harisharavindan/clean-up-unused-aws-ebs-volumes-with-lambda-function-bli)
 - [Pull Request notification on Slack using AWS Lambda](https://dev.to/harisharavindan/pull-request-notification-on-slack-using-aws-lambda-4mjo)
 - [helm chart for fastAPI](https://dev.to/harisharavindan/helm-chart-for-fastapi-2ej1)
-- [Learning FastAPI with a sample python library](https://dev.to/harisharavindan/learning-fastapi-with-a-sample-python-library-5f2n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
