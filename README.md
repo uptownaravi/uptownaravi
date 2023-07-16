@@ -8,11 +8,11 @@ Cloud Engineer | working on AWS EKS deployment pipelines | experimenting with gi
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS EKS Deployment with Helm Chart using Codebuild and CodePipeline](https://dev.to/harisharavindan/aws-eks-deployment-with-helm-chart-using-codebuild-and-codepipeline-379a)
 - [Pull Request Validation for AWS CodeCommit using Lambda and CodeBuild](https://dev.to/harisharavindan/pull-request-validation-for-aws-codecommit-using-lambda-and-codebuild-4dcg)
 - [GitHub Action for Commit Message Validation](https://dev.to/harisharavindan/github-action-for-commit-message-validation-5b36)
 - [Clean up unused aws ebs volumes with lambda function](https://dev.to/harisharavindan/clean-up-unused-aws-ebs-volumes-with-lambda-function-bli)
 - [Pull Request notification on Slack using AWS Lambda](https://dev.to/harisharavindan/pull-request-notification-on-slack-using-aws-lambda-4mjo)
-- [helm chart for fastAPI](https://dev.to/harisharavindan/helm-chart-for-fastapi-2ej1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
