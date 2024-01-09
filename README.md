@@ -3,10 +3,27 @@ Cloud Engineer | working on AWS EKS deployment pipelines | experimenting with gi
 
 ---
 
-### Trying my writing skills with blogs @
-:computer: https://dev.to/harisharavindan | https://uptownaravi.hashnode.dev/ | https://medium.com/@harisharavindan
+### writing blogs @
 
-# Blog posts
+##### Cloud and MLOPS
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/harisharavindan)
+
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://uptownaravi.hashnode.dev)
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@harisharavindan)
+
+#### Sustainbaility
+[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://thesustainabilityhub.substack.com)
+
+### My Coding Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,vim,md,git,python,linux,docker,kubernetes,helm,aws,terraform,github,githubactions,prometheus,grafana" />
+  </a>
+</p>
+
+### Blog Posts Feed
 <!-- BLOG-POST-LIST:START -->
 - [AWS Lambda gets Python 3.11 runtime](https://dev.to/harisharavindan/aws-lambda-gets-python-311-runtime-1a14)
 - [AWS EKS Deployment with Helm Chart using Codebuild and CodePipeline](https://dev.to/harisharavindan/aws-eks-deployment-with-helm-chart-using-codebuild-and-codepipeline-379a)
@@ -16,11 +33,13 @@ Cloud Engineer | working on AWS EKS deployment pipelines | experimenting with gi
 <!-- BLOG-POST-LIST:END -->
 
 ---
-### Social Links
+### Where to find me online
 <br>
-
-[![Github](https://img.shields.io/badge/github-profile-brightgreen.svg)](https://github.com/uptownaravi) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/harish-aravindan)
 
 :rocket: [harisharavindan.com](https://harisharavindan.com/)
+
+[![Github](https://img.shields.io/badge/github-profile-brightgreen.svg)](https://github.com/uptownaravi)
+
+<a href="https://www.buymeacoffee.com/uptownaravi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
