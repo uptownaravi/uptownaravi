@@ -19,7 +19,7 @@ Cloud Engineer | working on AWS EKS deployment pipelines | experimenting with gi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vim,md,git,python,linux,docker,kubernetes,helm,aws,terraform,github,githubactions,prometheus,grafana" />
+    <img src="https://skillicons.dev/icons?i=vscode,vim,md,git,python,linux,docker,kubernetes,aws,terraform,github,githubactions,prometheus,grafana" />
   </a>
 </p>
 
