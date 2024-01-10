@@ -5,17 +5,15 @@ Cloud Engineer | working on AWS EKS deployment pipelines | experimenting with gi
 
 ### writing blogs @
 
-##### Cloud and MLOPS
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/harisharavindan)
+**Cloud and MLOPS**
 
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://uptownaravi.hashnode.dev)
+[![Dev.to/harisharavindan](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/harisharavindan) [![Hashnode/uptownaravi](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://uptownaravi.hashnode.dev) [![Medium/@harisharavindan](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@harisharavindan)
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@harisharavindan)
+**Sustainbaility**
 
-#### Sustainbaility
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://thesustainabilityhub.substack.com)
 
-### My Coding Stack
+### My Technology Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -40,6 +38,6 @@ Cloud Engineer | working on AWS EKS deployment pipelines | experimenting with gi
 
 :rocket: [harisharavindan.com](https://harisharavindan.com/)
 
-[![Github](https://img.shields.io/badge/github-profile-brightgreen.svg)](https://github.com/uptownaravi)
+:rocket: [uptownlabs.in](https://uptownlabs.in/)
 
 <a href="https://www.buymeacoffee.com/uptownaravi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
