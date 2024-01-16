@@ -13,7 +13,7 @@ Cloud Engineer | working on AWS EKS deployment pipelines | experimenting with gi
 
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://thesustainabilityhub.substack.com)
 
-### My Technology Stack
+### Technology Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
