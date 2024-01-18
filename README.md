@@ -23,11 +23,11 @@ Cloud Engineer | working on AWS EKS deployment pipelines | experimenting with gi
 
 ### Blog Posts Feed
 <!-- BLOG-POST-LIST:START -->
+- [Serverless Endpoint Monitoring - check uptime of your app](https://dev.to/harisharavindan/serverless-endpoint-monitoring-using-monitor-your-uptime-of-your-app-40pn)
 - [AWS Lambda gets Python 3.11 runtime](https://dev.to/harisharavindan/aws-lambda-gets-python-311-runtime-1a14)
 - [AWS EKS Deployment with Helm Chart using Codebuild and CodePipeline](https://dev.to/harisharavindan/aws-eks-deployment-with-helm-chart-using-codebuild-and-codepipeline-379a)
 - [Pull Request Validation for AWS CodeCommit using Lambda and CodeBuild](https://dev.to/harisharavindan/pull-request-validation-for-aws-codecommit-using-lambda-and-codebuild-4dcg)
 - [GitHub Action for Commit Message Validation](https://dev.to/harisharavindan/github-action-for-commit-message-validation-5b36)
-- [Clean up unused aws ebs volumes with lambda function](https://dev.to/harisharavindan/clean-up-unused-aws-ebs-volumes-with-lambda-function-bli)
 <!-- BLOG-POST-LIST:END -->
 
 ---
