@@ -23,11 +23,11 @@ Cloud Engineer | working on AWS EKS deployment pipelines | experimenting with gi
 
 ### Blog Posts Feed
 <!-- BLOG-POST-LIST:START -->
+- [Your Bedrock Bill Is a Ticking Clock — Here&#39;s How to Stop It](https://dev.to/harisharavindan/your-bedrock-bill-is-a-ticking-clock-heres-how-to-stop-it-1c0i)
 - [DynamoDB as a State Machine: How I Stopped Paying for Redundant Lambda Executions](https://dev.to/harisharavindan/dynamodb-as-a-state-machine-how-i-stopped-paying-for-redundant-lambda-executions-30cc)
 - [Serverless Bedrock: How I invoke Claude from Lambda in warrantyAI](https://dev.to/harisharavindan/serverless-bedrock-how-i-invoke-claude-from-lambda-in-warrantyai-3hk)
 - [Serverless Endpoint Monitoring - check uptime of your app](https://dev.to/harisharavindan/serverless-endpoint-monitoring-using-monitor-your-uptime-of-your-app-40pn)
 - [AWS Lambda gets Python 3.11 runtime](https://dev.to/harisharavindan/aws-lambda-gets-python-311-runtime-1a14)
-- [AWS EKS Deployment with Helm Chart using Codebuild and CodePipeline](https://dev.to/harisharavindan/aws-eks-deployment-with-helm-chart-using-codebuild-and-codepipeline-379a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
