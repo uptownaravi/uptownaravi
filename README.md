@@ -1,5 +1,5 @@
 # Hi there 👋 its Harish Aravindan (uptownaravi)
-Cloud Engineer | working on AWS EKS deployment pipelines | experimenting with github action | easing out automations with chatops
+Cloud Engineer | Workinw with AWS | Sacling AI Workloads | experimenting with agents | easing out automations with chatops
 
 ---
 
