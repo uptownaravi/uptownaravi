@@ -1,5 +1,5 @@
 # Hi there 👋 its Harish Aravindan (uptownaravi)
-Cloud Engineer | Workinw with AWS | Sacling AI Workloads | experimenting with agents | easing out automations with chatops
+Cloud Engineer | Architecting solutions on AWS | Sacling AI Workloads | experimenting with agents | easing out automations with chatops
 
 ---
 
